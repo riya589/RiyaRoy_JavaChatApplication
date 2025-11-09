@@ -1,3 +1,4 @@
+
 ## Spring Boot
 This is a simple Spring Boot project. This application serves as a basic template for a Spring Boot based application.
 This project is bootstrapped with [Spring Initializr](https://start.spring.io/).
